@@ -1,3 +1,3 @@
 # ksqldb-helm
 
-Helm chart for ksqlDB deployment
+Helm chart for deploy ksqlDB
